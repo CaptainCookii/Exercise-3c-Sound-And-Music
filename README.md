@@ -19,7 +19,7 @@ Built using Unity 2022.3.45f
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  
-
+Evan Lucas - CaptainCookii
 ## Future Development
 
 Adding a face, Comet trail, Music and Sound, Shaders, etc.
